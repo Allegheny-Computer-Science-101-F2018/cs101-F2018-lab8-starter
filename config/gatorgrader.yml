@@ -35,6 +35,6 @@ writing/reflection.md:
     --words 100
     --fragment "```" --count 2
 # --> check the number of commits beyond a threshold
---commits 10
+--commits 16
 # --> check that the program produces output and does not crash
 --command "gradle -q --console plain run" --executes
